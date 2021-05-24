@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Georgeek
-- 👀 I’m a frontend-developer (vue.js)
+- 👀 I’m a front-end developer (vue.js)
